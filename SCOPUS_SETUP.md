@@ -1,11 +1,13 @@
 # Scopus API for SLR Research
 
+![elsevier](screenshots/06_elsevier_dev_portal.png)
+
 ## 1. Get API Key
 - Register: https://dev.elsevier.com/
 - Create API Key (free tier: ~20k requests/week)
 - Add to `~/.hermes/.env`:
   ```
-  SCOPUS_API_KEY=dfab6607561f0ec284cb773723395644
+  SCOPUS_API_KEY=dfab66...44
   ```
 
 ## 2. Use with Hermes

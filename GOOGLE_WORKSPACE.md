@@ -1,5 +1,7 @@
 # Google Workspace Integration
 
+![gcloud](screenshots/07_google_cloud_console.png)
+
 ## 1. Google Cloud Project
 - Go to https://console.cloud.google.com/
 - Create project: `Hermes-Agent-Workspace`

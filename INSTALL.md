@@ -1,5 +1,7 @@
 # Hermes Agent Installation
 
+![install](screenshots/02_hermes_docs.png)
+
 ## Linux/Mac/WSL
 ```bash
 curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash

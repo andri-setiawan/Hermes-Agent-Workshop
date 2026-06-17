@@ -1,5 +1,7 @@
 # Custom Provider Setup
 
+![provider](screenshots/04_custom_provider_docs.png)
+
 ## OpenAI Compatible Endpoint
 
 Edit `~/.hermes/config.yaml`:

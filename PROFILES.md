@@ -1,5 +1,7 @@
 # Hermes Profiles
 
+![profiles](screenshots/10_hermes_profiles_docs.png)
+
 Create purpose-specific isolated profiles:
 
 ```bash

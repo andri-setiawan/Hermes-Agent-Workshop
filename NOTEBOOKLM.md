@@ -1,5 +1,7 @@
 # NotebookLM Automation
 
+![notebooklm](screenshots/09_notebooklm.png)
+
 ## Setup
 ```bash
 pip install notebooklm-py
